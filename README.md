@@ -4,6 +4,9 @@ https://github.com/steemit/steem
 
 https://steem.com/
 
+#### steemit
+https://github.com/takagotch/Steemit
+
 ```cpp
 // tests/tests/smt_operation_tests.cpp
 
